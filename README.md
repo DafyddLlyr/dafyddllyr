@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on [PlanX](https://github.com/theopensystemslab/planx-new) and [The Atlas of Ownership](https://atlasofownership.org/)
 - 🗺️ Previously I've worked on [groundMapper](https://www.thinkwhere.com/products/groundmapper/) and [theMapCloud](https://www.thinkwhere.com/products/themapcloud/)
-- 👋 You can connect with me here - [![Linkedin Badge](https://img.shields.io/badge/-dafyddpearson-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dafyddpearson/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@dafyddllyr-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=dafyddllyr "Follow on Twitter") [![Gmail Badge](https://img.shields.io/badge/-dafyddllyr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dafyddllyr@gmail.com "Connect via Email")
+- 👋 You can connect with me here - [![Linkedin Badge](https://img.shields.io/badge/-dafyddpearson-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dafyddpearson/ "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-dafyddllyr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dafyddllyr@gmail.com "Connect via Email")
 - 🥾 Fun fact: In 2015 [I hiked Te Araroa](https://dafyddrambles.wordpress.com/) - the length of New Zealand
 
 
